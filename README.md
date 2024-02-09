@@ -50,11 +50,7 @@ Mix of Exploration, Technology, and Magic, this Modpack was made for the **VasaC
   
 # Installation
 
-Download this repository as an archive, or clone it using `git`
-
-```
-$ git clone --depth 1 https://github.com/TomasTobrman/VasaCraft.git
-```
+Download the [latest release](https://github.com/TomasTobrman/VasaCraft/releases/latest) of the modpack
 
 ## Java
 
@@ -153,11 +149,15 @@ $ java --version
 
 # Included Resource Packs
 
+You are free to add more resource packs, but these will always be active for everyone on the server.
+
 - [Adventurer's Chest (Lootr)](https://www.curseforge.com/minecraft/texture-packs/adventurers-chest-lootr)
 - [Lopy's Create Style Sophisticated Backpacks](https://www.curseforge.com/minecraft/texture-packs/create-sophisticated-backpacks)
 - [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/)
 
 # Optional Client Mods
+
+The modpack archive contains an `optional` folder, from which you can move any of these mods into the `mods` folder. If you would like to install any other client mods, you are free to do so.
 
 - [BoccHUD](https://modrinth.com/mod/bocchud)
 - [Distant Horizons](https://modrinth.com/mod/distanthorizons)
