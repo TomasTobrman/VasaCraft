@@ -218,8 +218,8 @@ The modpack archive contains an `optional` folder, from which you can move any o
 ## Client
 
 - [AppleSkin](https://modrinth.com/mod/appleskin)
-- [[EMF] Entity Model Features](https://modrinth.com/mod/entity-model-features)
-- [[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
+- [\[EMF\] Entity Model Features](https://modrinth.com/mod/entity-model-features)
+- [\[ETF\] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
 - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
 - [AnimaticaReforged](https://modrinth.com/mod/animaticareforged)
 - [Better Advancements](https://modrinth.com/mod/better-advancements)
@@ -257,7 +257,7 @@ The modpack archive contains an `optional` folder, from which you can move any o
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
 - [No Telemetry](https://modrinth.com/mod/no-telemetry)
 - [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
-- [Not Enough Recipe Book [NERB]](https://modrinth.com/mod/nerb)
+- [Not Enough Recipe Book \[NERB\]](https://modrinth.com/mod/nerb)
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)
 - [Mysterious Mountain Lib](https://modrinth.com/mod/mmlib)
 - [Panorama Screens](https://modrinth.com/mod/panorama-screens)
@@ -364,7 +364,6 @@ The modpack archive contains an `optional` folder, from which you can move any o
 - [Storage Labels](https://modrinth.com/mod/labels)
 - [Supplementaries Squared](https://modrinth.com/mod/supplementaries-squared)
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
-- [Thaumon](https://modrinth.com/mod/thaumon)
 - [Wallpapers](https://modrinth.com/mod/wallpapers)
 
 ## Food
@@ -403,6 +402,7 @@ The modpack archive contains an `optional` folder, from which you can move any o
 ## Other
 
 - [Alex's Mobs](https://modrinth.com/mod/alexs-mobs)
+- [Better Compatibility Checker](https://modrinth.com/mod/better-compatibility-checker)
 - [Clumps](https://modrinth.com/mod/clumps)
 - [Conduits Prevent Drowned](https://modrinth.com/mod/conduits-prevent-drowned)
 - [Corpse](https://modrinth.com/mod/corpse)
@@ -416,7 +416,7 @@ The modpack archive contains an `optional` folder, from which you can move any o
 - [HT's TreeChop](https://modrinth.com/mod/treechop)
 - [I don't want portal yet](https://modrinth.com/mod/i-dont-want-portal-yet)
 - [Lootr](https://modrinth.com/mod/lootr)
-- [Minecards [Forge]](https://modrinth.com/mod/minecards-forge)
+- [Minecards \[Forge\]](https://modrinth.com/mod/minecards-forge)
 - [More Red x CC:Tweaked Compat](https://modrinth.com/mod/more-red-x-cc-tweaked-compat)
 - [Polymorph](https://modrinth.com/mod/polymorph)
 - [Polymorphic Energistics](https://modrinth.com/mod/polymorphic-energistics)
