@@ -157,7 +157,7 @@ You are free to add more resource packs, but these will always be active for eve
 
 # Optional Client Mods
 
-The modpack archive contains an `optional` folder, from which you can move any of these mods into the `mods` folder. If you would like to install any other client mods, you are free to do so.
+Here are some featured optional mods that you could add. Download them for `Forge` version `1.20.1` and put them into the `mods` folder in the directory where you extracted the modpack.
 
 - [BoccHUD](https://modrinth.com/mod/bocchud)
 - [Distant Horizons](https://modrinth.com/mod/distanthorizons)
